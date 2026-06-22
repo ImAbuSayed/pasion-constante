@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión constante
+
+This log tracks the cryptographic history and versioning for the song **Pasión constante** (pasion-constante).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:21:10.934886 | `v1` | `9fb226c502da016c3178c9997ce8dd53092280ffbf7bbfdc877589815e99529e` | `cc077702fb83b4e3ac386542f1f79dbf49397a942c5553121ba343045f3d9ee8` | `2026-06-23_pasion-constante-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
