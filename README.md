@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-constante/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pasión constante](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-constante/) |
+| **Get License** | [Official Music Licensing for Pasión constante](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-constante/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios llaman sin cesar
+> Mi piel ya quiere naufragar
+> En esta noche sin final
+> Solo tú y yo, pasión constante
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
